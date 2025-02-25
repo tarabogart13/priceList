@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Product ID": "PA319470",
+  "Description": "ZNHM05-1281-AV-B-60  S0HN240849",
+  "Part/ Unit": "U",
+  "Frame Size": "1281",
+  "Ratio": "60",
+  "Motor Size": "",
+  "SSC": "A10 M2A N2A N20 N3B N33 P2E P2G P6H P97 P70",
+  "Calculated Base Price": 0,
+  "Add-Ons": [],
+  "BOM Cost": [],
+  "BOM Total Cost": 0,
+  "PGN List Price": 0,
+  "Last Orders": [
+    {
+      "Date": "12/05/2024",
+      "Order": "VAR8B554-001",
+      "List Price": 1876
+    }
+  ]
 }
