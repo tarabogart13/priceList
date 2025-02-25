@@ -1,21 +1,225 @@
 {
-  "Product ID": "PA319470",
-  "Description": "ZNHM05-1281-AV-B-60  S0HN240849",
-  "Part/ Unit": "U",
-  "Frame Size": "1281",
-  "Ratio": "60",
-  "Motor Size": "",
-  "SSC": "A10 M2A N2A N20 N3B N33 P2E P2G P6H P97 P70",
-  "Calculated Base Price": 0,
-  "Add-Ons": [],
-  "BOM Cost": [],
-  "BOM Total Cost": 0,
-  "PGN List Price": 0,
-  "Last Orders": [
-    {
-      "Date": "12/05/2024",
-      "Order": "VAR8B554-001",
-      "List Price": 1876
-    }
-  ]
+  "Product ID": "PA223662",
+    "Description": "CNHMS1H-6125YB-EP-59(N35,N3B,YAK0)",
+    "Part/ Unit": "U",
+    "Frame Size": "6125",
+    "Ratio": "59",
+    "Motor Size": "",
+    "SSC": "N3B N35 YAK0",
+    "Calculated Base Price": 1982,
+    "Add-Ons": [
+      {
+        "Category": "MOUNT",
+        "Description": "Angle Mounted(N/A)",
+        "List Price": 0,
+        "List Price Flag": "C/F"
+      }
+    ],
+    "BOM Cost": [
+      {
+        "Line No": 16,
+        "Article ID": "AU9217G",
+        "Position": "6",
+        "Category": "Gasket Set",
+        "Description": "GASKET 6125,4115,4125 B,C 199X164X0.3",
+        "Cost": 80
+      },
+      {
+        "Line No": 17,
+        "Article ID": "240K022----NG",
+        "Position": "3-10",
+        "Category": "Retaining Ring",
+        "Description": "RTNG RING,EXT-METRIC,SHAFT 22 X 1.2,TYPE-C,JIS B 2804",
+        "Cost": 20
+      },
+      {
+        "Line No": 18,
+        "Article ID": "AU2746G",
+        "Position": "3-09",
+        "Category": "Spacer",
+        "Description": "SPACER 6125,4115 HSS 32X22X2",
+        "Cost": 22
+      },
+      {
+        "Line No": 19,
+        "Article ID": "215C0707030NG",
+        "Position": "3-05",
+        "Category": "Eccentric Key",
+        "Description": "KEY 6125,4115 ECC 7X7X30",
+        "Cost": 14
+      },
+      {
+        "Line No": 24,
+        "Article ID": "942HH612-Y--G",
+        "Position": "",
+        "Category": "",
+        "Description": "CASE ASSY CNH-612Y",
+        "Cost": 0
+      },
+      {
+        "Line No": 26,
+        "Article ID": "AX7924G",
+        "Position": "7",
+        "Category": "Casing Bolt & Nut Set",
+        "Description": "612# COATING HEX.SOCKET M10X65",
+        "Cost": 20
+      },
+      {
+        "Line No": 27,
+        "Article ID": "062W010----NG",
+        "Position": "7",
+        "Category": "Casing Bolt & Nut Set",
+        "Description": "SPLIT LOCK WASHER, METRIC, SPRING STEEL, M10, PLAIN",
+        "Cost": 20
+      },
+      {
+        "Line No": 28,
+        "Article ID": "AT7734G",
+        "Position": "",
+        "Category": "",
+        "Description": "HANGER 6125,6135,6145,4115,4135",
+        "Cost": 0
+      },
+      {
+        "Line No": 31,
+        "Article ID": "MMPX4390",
+        "Position": "",
+        "Category": "",
+        "Description": "TAG,GREEN, LUBRICANT WARNING, ALL PRODUCTS",
+        "Cost": 0
+      },
+      {
+        "Line No": 32,
+        "Article ID": "CMPK6171",
+        "Position": "",
+        "Category": "",
+        "Description": "WARNING LABEL: ROTATING SHAFT, TECH MANUAL, WITH QR CODE",
+        "Cost": 0
+      },
+      {
+        "Line No": 34,
+        "Article ID": "ATT698G",
+        "Position": "",
+        "Category": "",
+        "Description": "HEX.SOCKET PLUG R1/8 ZN",
+        "Cost": 0
+      },
+      {
+        "Line No": 35,
+        "Article ID": "BL500LG",
+        "Position": "2-01",
+        "Category": "",
+        "Description": "RGH 612 59:1",
+        "Cost": 0
+      },
+      {
+        "Line No": 36,
+        "Article ID": "AT3184G",
+        "Position": "2-02",
+        "Category": "",
+        "Description": "RGHP 612,411 59-71 5X40",
+        "Cost": 0
+      },
+      {
+        "Line No": 37,
+        "Article ID": "BQ703LG",
+        "Position": "2-04",
+        "Category": "",
+        "Description": "DISC 612,411 59",
+        "Cost": 0
+      },
+      {
+        "Line No": 38,
+        "Article ID": "AW6532G",
+        "Position": "1-06",
+        "Category": "Slow Speed Shaft Rollers",
+        "Description": "SSSR 612,411 (12.06X17X28)",
+        "Cost": 246
+      },
+      {
+        "Line No": 39,
+        "Article ID": "AN8394G",
+        "Position": "2-05",
+        "Category": "Cyclo Disc Spacer Ring",
+        "Description": "SPACER RING 6125,4115 107.5X118X6.2 (NYLON46)",
+        "Cost": 36
+      },
+      {
+        "Line No": 40,
+        "Article ID": "AP9320G",
+        "Position": "",
+        "Category": "",
+        "Description": "ECCENTRIC BEARING 612# 1/51,59 (PA46)",
+        "Cost": 0
+      },
+      {
+        "Line No": 41,
+        "Article ID": "CQ554LG",
+        "Position": "",
+        "Category": "",
+        "Description": "KEY 6125Y,4115Y SSS 3/8X3/8X45",
+        "Cost": 0
+      },
+      {
+        "Line No": 43,
+        "Article ID": "730FUNIREXN2G",
+        "Position": "",
+        "Category": "",
+        "Description": "ESSO UNIREX N2",
+        "Cost": 0
+      },
+      {
+        "Line No": 2,
+        "Article ID": "9W1N1113E211W",
+        "Position": "",
+        "Category": "",
+        "Description": "MOTOR N137S 1.5HP(1.1KW) 4P IE3 UL&CSA F230/460V 211#(612#)",
+        "Cost": 0
+      },
+      {
+        "Line No": 12,
+        "Article ID": "999DUMMYPARTG",
+        "Position": "",
+        "Category": "",
+        "Description": "DUMMY PART #",
+        "Cost": 0
+      },
+      {
+        "Line No": 15,
+        "Article ID": "GMMX0497",
+        "Position": "",
+        "Category": "",
+        "Description": "NAMEPLATE (TESA, KICM19100) KICE GEARMOTOR",
+        "Cost": 0
+      }
+    ],
+    "BOM Total Cost": 458,
+    "PGN List Price": 0,
+    "Last Orders": [
+      {
+        "Date": "03/08/2024",
+        "Order": "ILR2B000-004",
+        "List Price": 2042
+      },
+      {
+        "Date": "03/08/2024",
+        "Order": "ILR2B000-005",
+        "List Price": 2042
+      },
+      {
+        "Date": "02/19/2024",
+        "Order": "ILR2A402-007",
+        "List Price": 2042
+      },
+      {
+        "Date": "01/03/2024",
+        "Order": "ILQZA933-003",
+        "List Price": 2042
+      },
+      {
+        "Date": "12/27/2023",
+        "Order": "ILQZA645-004",
+        "List Price": 2042
+      }
+    ]
 }
